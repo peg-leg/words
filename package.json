@@ -1,6 +1,6 @@
 {
   "name": "wordles",
-  "version": "2202021345.0.0",
+  "version": "1.0.0",
   "description": "Word list for Wordle from The New York Times",
   "main": "./index.cjs",
   "exports": {
