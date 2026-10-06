@@ -5094,7 +5094,6 @@ amylogens
 amyloid
 amyloidoses
 amyloidosis
-amyloidosises
 amyloids
 amylolytic
 amylopectin
@@ -7657,8 +7656,6 @@ appendents
 appendicectomies
 appendicectomy
 appendices
-appendicites
-appendicitides
 appendicitis
 appendicitises
 appendicular
@@ -8455,7 +8452,6 @@ ariary
 arias
 ariboflavinoses
 ariboflavinosis
-ariboflavinosises
 arid
 arider
 aridest
@@ -11126,7 +11122,6 @@ babesia
 babesias
 babesioses
 babesiosis
-babesiosises
 babiche
 babiches
 babied
@@ -13747,7 +13742,6 @@ begirdles
 begirdling
 begirds
 begirt
-begirting
 beglad
 begladded
 begladding
@@ -19543,9 +19537,7 @@ bronchiectasis
 bronchiolar
 bronchiole
 bronchioles
-bronchites
 bronchitic
-bronchitides
 bronchitis
 bronchitises
 bronchium
@@ -22957,7 +22949,6 @@ carcinomas
 carcinomata
 carcinomatoses
 carcinomatosis
-carcinomatosises
 carcinomatous
 carcinosarcoma
 carcinosarcomas
@@ -24437,7 +24428,6 @@ cellule
 cellules
 cellulite
 cellulites
-cellulitides
 cellulitis
 cellulitises
 celluloid
@@ -24844,8 +24834,6 @@ cerveza
 cervezas
 cervical
 cervices
-cervicites
-cervicitides
 cervicitis
 cervicitises
 cervid
@@ -26631,7 +26619,6 @@ cholecyst
 cholecystectomies
 cholecystectomized
 cholecystectomy
-cholecystites
 cholecystitides
 cholecystitis
 cholecystitises
@@ -32181,8 +32168,6 @@ conjunctivas
 conjunctive
 conjunctively
 conjunctives
-conjunctivites
-conjunctivitides
 conjunctivitis
 conjunctivitises
 conjuncts
@@ -41844,7 +41829,6 @@ dermabrasion
 dermabrasions
 dermal
 dermas
-dermatites
 dermatitides
 dermatitis
 dermatitises
@@ -46120,13 +46104,10 @@ diverter
 diverters
 diverticula
 diverticular
-diverticulites
-diverticulitides
 diverticulitis
 diverticulitises
 diverticuloses
 diverticulosis
-diverticulosises
 diverticulum
 divertimenti
 divertimento
@@ -51474,7 +51455,6 @@ endocrinology
 endocytic
 endocytoses
 endocytosis
-endocytosises
 endocytotic
 endoderm
 endodermal
@@ -51508,9 +51488,6 @@ endometria
 endometrial
 endometrioses
 endometriosis
-endometriosises
-endometrites
-endometritides
 endometritis
 endometritises
 endometrium
@@ -52782,8 +52759,6 @@ epidiascopes
 epididymal
 epididymides
 epididymis
-epididymites
-epididymitides
 epididymitis
 epididymitises
 epidote
@@ -58288,8 +58263,6 @@ fibrosarcomas
 fibrosarcomata
 fibroses
 fibrosis
-fibrosites
-fibrositides
 fibrositis
 fibrositises
 fibrotic
@@ -60735,8 +60708,6 @@ folles
 follicle
 follicles
 follicular
-folliculites
-folliculitides
 folliculitis
 folliculitises
 follies
@@ -64401,7 +64372,6 @@ gastrocnemius
 gastroduodenal
 gastroenteritides
 gastroenteritis
-gastroenteritises
 gastroenterological
 gastroenterologies
 gastroenterologist
@@ -65711,8 +65681,6 @@ gingivae
 gingival
 gingivectomies
 gingivectomy
-gingivites
-gingivitides
 gingivitis
 gingivitises
 gingko
@@ -69882,7 +69850,6 @@ hallucinogenics
 hallucinogens
 hallucinoses
 hallucinosis
-hallucinosises
 hallux
 hallway
 hallways
@@ -71848,7 +71815,6 @@ hemmers
 hemming
 hemochromatoses
 hemochromatosis
-hemochromatosises
 hemocoel
 hemocoels
 hemocyanin
@@ -72367,7 +72333,6 @@ heterokaryon
 heterokaryons
 heterokaryoses
 heterokaryosis
-heterokaryosises
 heterokaryotic
 heterologous
 heterologously
@@ -72997,7 +72962,6 @@ histophysiologies
 histophysiology
 histoplasmoses
 histoplasmosis
-histoplasmosises
 historian
 historians
 historic
@@ -85278,8 +85242,6 @@ keratins
 keratitides
 keratitis
 keratitises
-keratoconjunctivites
-keratoconjunctivitides
 keratoconjunctivitis
 keratoconjunctivitises
 keratoid
@@ -87562,7 +87524,6 @@ laryngectomies
 laryngectomized
 laryngectomy
 larynges
-laryngites
 laryngitic
 laryngitides
 laryngitis
@@ -88842,7 +88803,6 @@ leukocytes
 leukocytic
 leukocytoses
 leukocytosis
-leukocytosises
 leukodystrophies
 leukodystrophy
 leukoma
@@ -91844,7 +91804,6 @@ lymphocytes
 lymphocytic
 lymphocytoses
 lymphocytosis
-lymphocytosises
 lymphogram
 lymphograms
 lymphogranuloma
@@ -94050,7 +94009,6 @@ mastodonts
 mastoid
 mastoidectomies
 mastoidectomy
-mastoidites
 mastoiditides
 mastoiditis
 mastoiditises
@@ -99795,7 +99753,6 @@ mononucleate
 mononucleated
 mononucleoses
 mononucleosis
-mononucleosises
 mononucleotide
 mononucleotides
 monophagies
@@ -102220,7 +102177,6 @@ myxomas
 myxomata
 myxomatoses
 myxomatosis
-myxomatosises
 myxomatous
 myxomycete
 myxomycetes
@@ -103524,7 +103480,6 @@ neurofibromas
 neurofibromata
 neurofibromatoses
 neurofibromatosis
-neurofibromatosises
 neurogenic
 neurogenically
 neuroglia
@@ -116032,7 +115987,6 @@ pediculate
 pediculates
 pediculoses
 pediculosis
-pediculosises
 pediculous
 pedicure
 pedicured
@@ -117062,7 +117016,6 @@ perionychium
 periostea
 periosteal
 periosteum
-periostites
 periostitides
 periostitis
 periostitises
@@ -117131,8 +117084,6 @@ peritoneal
 peritoneally
 peritoneum
 peritoneums
-peritonites
-peritonitides
 peritonitis
 peritonitises
 peritrich
@@ -121236,7 +121187,6 @@ pneumonectomy
 pneumonia
 pneumonias
 pneumonic
-pneumonites
 pneumonitides
 pneumonitis
 pneumonitises
@@ -121669,7 +121619,6 @@ pollenizer
 pollenizers
 pollenoses
 pollenosis
-pollenosises
 pollens
 poller
 pollers
@@ -121696,7 +121645,6 @@ pollinizes
 pollinizing
 pollinoses
 pollinosis
-pollinosises
 pollist
 pollists
 polliwog
@@ -126822,8 +126770,6 @@ prostates
 prostatic
 prostatism
 prostatisms
-prostatites
-prostatitides
 prostatitis
 prostatitises
 prostheses
@@ -127418,7 +127364,6 @@ psittacine
 psittacines
 psittacoses
 psittacosis
-psittacosises
 psittacotic
 psoae
 psoai
@@ -140956,8 +140901,6 @@ salpiglosses
 salpiglossis
 salpiglossises
 salpinges
-salpingites
-salpingitides
 salpingitis
 salpingitises
 salpinx
@@ -152713,7 +152656,6 @@ spondaic
 spondaics
 spondee
 spondees
-spondylites
 spondylitides
 spondylitis
 spondylitises
@@ -152846,7 +152788,6 @@ sporopollenin
 sporopollenins
 sporotrichoses
 sporotrichosis
-sporotrichosises
 sporozoa
 sporozoal
 sporozoan
@@ -155833,7 +155774,6 @@ strongyloidiases
 strongyloidiasis
 strongyloidoses
 strongyloidosis
-strongyloidosises
 strongyls
 strontia
 strontian
@@ -162393,13 +162333,11 @@ tenderometer
 tenderometers
 tenders
 tending
-tendinites
 tendinitides
 tendinitis
 tendinitises
 tendinous
 tendon
-tendonites
 tendonitides
 tendonitis
 tendonitises
@@ -164271,7 +164209,6 @@ thyroidal
 thyroidectomies
 thyroidectomized
 thyroidectomy
-thyroidites
 thyroiditides
 thyroiditis
 thyroiditises
@@ -165394,7 +165331,6 @@ tonsilar
 tonsillar
 tonsillectomies
 tonsillectomy
-tonsillites
 tonsillitides
 tonsillitis
 tonsillitises
@@ -166162,7 +166098,6 @@ tracheated
 tracheates
 tracheid
 tracheids
-tracheites
 tracheitides
 tracheitis
 tracheitises
@@ -167419,7 +167354,6 @@ trichinizes
 trichinizing
 trichinoses
 trichinosis
-trichinosises
 trichinous
 trichite
 trichites
@@ -174755,7 +174689,6 @@ urethra
 urethrae
 urethral
 urethras
-urethrites
 urethritides
 urethritis
 urethritises
@@ -175323,8 +175256,6 @@ valvulae
 valvular
 valvule
 valvules
-valvulites
-valvulitides
 valvulitis
 valvulitises
 vambrace
@@ -177922,7 +177853,6 @@ vulviform
 vulvitis
 vulvitises
 vulvovaginitis
-vulvovaginitises
 vum
 vying
 vyingly
